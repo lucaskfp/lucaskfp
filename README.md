@@ -18,7 +18,7 @@
 - 🪅 Me pergunte qualquer coisa sobre css  
   
 
-- ⚡ Fun fact: sou um grande adepto ao DIY e já me aventurei com hortas, marcenaria, culinária 😋 e por ai vai  
+- ⚡ Fun fact: sou um grande adepto ao DIY e já me aventurei com hortas, marcenaria, eletrônica e por ai vai  
   
 
 <br/>  
