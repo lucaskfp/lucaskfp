@@ -15,7 +15,7 @@
 - 🌱 Enquanto isso trabalho em projetos pessoais com React/Node afim de aperfeiçoar meus conhecimentos e sempre disposto a aprender mais  
   
 
-- 🪅 Me pergunte qualquer coisa sobre css  
+- 🪅 Pixel Perfect 
   
 
 - ⚡ Fun fact: sou um grande adepto ao DIY e já me aventurei com hortas, marcenaria, eletrônica e por ai vai  
