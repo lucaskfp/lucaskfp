@@ -7,12 +7,10 @@
 ### <div align="center">Bem vindo ao meu github, me chamo Lucas Kennedy e sou desenvolvedor full stack 👨‍💻</div>  
 
 <br/>
+   
   
 
-- 🔭 Atualmente estou aberto a oportunidades como desenvolver web  
-  
-
-- 🌱 Enquanto isso trabalho em projetos pessoais com React/Node afim de aperfeiçoar meus conhecimentos e sempre disposto a aprender mais  
+- 🌱 Atualmente estudando JAVA 
   
 
 - 🪅 Pixel Perfect 
