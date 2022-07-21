@@ -11,7 +11,7 @@
   
 - 💻 Trabalho no iFood como engenheiro de software
 
-- 🌱 Atualmente estudando JAVA e cultura DevOps
+- 🌱 Atualmente estudando front-end
 
 - 🪅 Pixel Perfect 
   
